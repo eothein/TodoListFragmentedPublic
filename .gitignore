@@ -57,9 +57,4 @@ Temporary Items
 .idea/workspace.xml
 app/app.iml
 app/proguard-rules.pro
-build.gradle
-gradle/wrapper/gradle-wrapper.jar
-gradlew
-settings.gradle
-gradlew.bat
 ToDoListFragmented.iml
