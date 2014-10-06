@@ -41,3 +41,25 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.properties
+*.lock
+*.bin
+*.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/scopes/scope_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+app/app.iml
+app/proguard-rules.pro
+build.gradle
+gradle/wrapper/gradle-wrapper.jar
+gradlew
+settings.gradle
+gradlew.bat
+ToDoListFragmented.iml
